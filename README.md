@@ -1,4 +1,4 @@
-# billboard
-Data From Machine Learning Project about Billboard Hot 100 Chart  
+# Billboard Hot 100 Chart Prediction
+Data about Machine Learning Project below  
   
-[Prediction Site of Billboard Hot 100 Chart](https://playful-visualization.netlify.app/2/)  
+[ML based Billboard Hot 100 Chart Prediction](https://playful-visualization.netlify.app/2/)  
