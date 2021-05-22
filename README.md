@@ -5,4 +5,4 @@ Paul McCartney’s new song feat.Travis Scott? or vice-versa?
 You can create totally new combinations no one ever can imagine!  
 explore and try it!  
     
-[ML-based Billboard Hot 100 Chart Prediction](https://playful-visualization.netlify.app/2/)  
+Link : [Guess Billboard Hot 100 ?](https://playful-visualization.netlify.app/2/)  
