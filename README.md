@@ -7,6 +7,6 @@ Featuring is the particular type of creative collaboration involving one artist 
 
 What we want to examine with this platform is the plausibility of an artist's popularity on Social networks for the song’s success on the chart rather than the music’s quality itself.
     
-Explore : [Guess Billboard Hot 100?](https://guessbillboardhot100.weaverslab.co.kr/)  
+Explore : [Customzed Taste : Guess Billboard Hot 100?](https://guessbillboardhot100.weaverslab.co.kr/)  
 
 This Project will be published in NeurIPS Workshop on Machine Learning for Creativity and Design 2021
