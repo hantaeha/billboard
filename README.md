@@ -9,4 +9,4 @@ What we want to examine with this platform is the plausibility of an artist's po
     
 Explore : [Customzed Taste : Guess Billboard Hot 100?](https://guessbillboardhot100.weaverslab.co.kr/)  
 
-This Project will be published in NeurIPS Workshop on Machine Learning for Creativity and Design 2021
+*This Project will be published in NeurIPS Workshop on Machine Learning for Creativity and Design 2021*
